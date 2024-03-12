@@ -19,7 +19,6 @@
 - Apasionado por el desarrollo Front-End 
 - Actualmente con 2 años de experiencia trabajando con React, Astro y Angular
 - Personal website..🔨🔨👷
-- Abierto a ofertas de trabajo.
 
 <br><br>
 
