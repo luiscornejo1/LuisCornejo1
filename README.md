@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy Luis Cornejo :3 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=LuisCornejo..;++;+Front-End+Developer,;Ingeniero+de+Sistemas,++;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines= Mi nombre es Luis Cornejo..;++;+Full-Stack+Developer,;Ingeniero+de+Sistemas,++;"></a>
 </p>
 
 
@@ -16,7 +16,7 @@
 
 <br>
 
-- Apasionado por el desarrollo Front-End 
+- Apasionado por el desarrollo Front-End Y
 - Actualmente con 2 años de experiencia trabajando con React, Astro y Angular
 - Personal website : https://ludidev-portfolio.netlify.app/
 
