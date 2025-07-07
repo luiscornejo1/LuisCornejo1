@@ -16,8 +16,9 @@
 
 <br>
 
-- Apasionado por el desarrollo Front-End Y
-- Actualmente con 2 años de experiencia trabajando con React, Astro y Angular
+- Profesional en Ingenieria de Software y Sistemas.
+- Actualmente con 2 años de experiencia trabajando con React, Astro y Angular.
+- - Actualmente con 2 años de experiencia trabajando con Springboot, Java y .NET.
 - Personal website : https://ludidev-portfolio.netlify.app/
 
 <br><br>
