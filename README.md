@@ -18,7 +18,7 @@
 
 - Apasionado por el desarrollo Front-End 
 - Actualmente con 2 años de experiencia trabajando con React, Astro y Angular
-- Personal website..🔨🔨👷
+- Personal website : https://ludidev-portfolio.netlify.app/
 
 <br><br>
 
