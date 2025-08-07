@@ -18,8 +18,19 @@
 
 - Profesional en Ingenieria de Software y Sistemas.
 - Actualmente con 2 años de experiencia trabajando con React, Astro y Angular.
-- - Actualmente con 2 años de experiencia trabajando con Springboot, Java y .NET.
+- Actualmente con 2 años de experiencia trabajando con Springboot, Java y .NET.
 - Personal website : https://ludidev-portfolio.netlify.app/
+
+<br><br>
+
+<br>
+
+- Professional in Software and Systems Engineering.
+- Currently have 2 years of experience working with React, Astro, and Angular.
+- Currently have 2 years of experience working with Spring Boot, Java, and .NET.
+- Personal website: https://ludidev-portfolio.netlify.app/
+
+
 
 <br><br>
 
