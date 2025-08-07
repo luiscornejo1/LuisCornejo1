@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Luis Cornejo :3 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Luis Cornejo </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdkd3U4NHdua2FzdHRzbXR0emhldDNnb2xzYXhvbDZyeHJoazc5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"  ></h1>
 <!--  -->
 <p align="center">
 <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9BF7C0&center=true&width=435&lines=Fullstack+Dev" alt="Typing SVG" /></a>
